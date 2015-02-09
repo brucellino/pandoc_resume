@@ -1,11 +1,15 @@
 Bruce Becker
 ============
 
-**Current Position**
+-------------------                                -----------------------------
+C.S.I.R. Meraka Institute                                   brucellino@gmail.com
+Building 43, C.S.I.R. Campus                                  bbecker@csir.co.za
+1 Meiring Naude Road                                           + 39 392 622 9279
+Pretoria 0001                                              Twitter: @brusisceddu
+--------------------                               -----------------------------
 
-Senior Researcher, SANREN Competency Area, CSIR Meraka Institute \
-Building 43 CSIR Campus, Meiring Naude Road, Pretoria 0001, South Africa \
-brucellino@gmail.com | bbecker@csir.co.za
+**Current Position**
+Senior Researcher, SANREN Competency Area, CSIR Meraka Institute
 
 Personal Information
 ---------------------
@@ -174,6 +178,42 @@ Activities
       * Shifts at the ALICE experiment dipole commissioning
 
 
+Tutoring and Teaching Positions
+-------------------------------
+
+Bruce has acted as a tutor, lecturer and teacher in various positions, from high-school to postgraduate level, since 1996.
+
+-------------------------------------------------
+
+June 2014
+:   Tutor for RECAS/CASAP Summer School on Science Gateways (Catania, Italy). The course was conducted in **English** and **Italian**.
+
+-------------------------------------------------
+
+March 2012
+:   Visiting Lecturer at Ecole Nationale Superieur Informatique (ENSI) in Tunis, Tunisia. Conducted a week long course on grid computing for informatics applications as well as a two-day conference. The course was conducted in **English** and **French**.
+
+--------------------------------------------------
+
+June 2010
+:   Lecturer in the African School of Physics (ASP2010), held in Stellenbosch, South Africa. Organised by CERN and other leading HEP laboratories, this two-week school attracted several of the brightest students from across the continent. Bruce was responsible for the grid computing module of the school. The course was conducted in **English**.
+
+--------------------------------------------------
+
+2009 - 2013
+:   Trainer in various **EPIKH** FP7 project grid computing schools. As part of the FP7 EPIKH project, Bruce was required to organise and deliver training in scientific and grid computing to various members of the higher-education and scientific communities in the partner countries. The courses were two weeks in duration and delivered in **English**.
+
+--------------------------------------------------
+
+2002 - 2005
+:   Undergraduate physics tutor (1st - 3rd year physics), University of Cape Town. During this period, Bruce acted as an undergraduate tutor to the students enrolled in undergraduate physics courses. This required the assessment of (English) oral and written communication skills required by students at the University.
+
+--------------------------------------------------
+
+1996 - 2004
+:   High-School tutor (English, Mathematics, Physics), private. Bruce was engaged by several High-Schools and private individuals in the Cape Town region, in his personal capacity, to impart lessons of English, Mathematics and Physics to final-year schoolgoers. In particular, he worked with the large Angolan and Congolese immigrant community. Speaking Portuguese and French as a first language, these students did not have English as a first language, but were required to pass the first language requirements of South African high schools. He had a 100 % pass rate.
+
+--------------------------------------------------
 
 Education
 ---------
@@ -185,7 +225,7 @@ Graduated
 Thesis title
 :   **Design, implementation and physics performance of the ALICE dimuon spectrometer High-Level Trigger (dHLT).**
 Short description
-:   The dimuon spectrometer of the ALICE experiment at the LHC aims to investigate the properties of the system created in ultra-relativistic heavy-ion nuclear collisions, by using heavy quarkonia (J/Ψ and Upsilon families) as a probe. These mesons are predicted to be produced in abundance at the LHC, but have a small cross-section for decay into dimuon pairs. In order to extract a significant signal from the large muon background sources, a High-Level Trigger (dHLT) has been developed to extend the capabilities of the detector. My thesis details the development and implementation of the dHLT and investigates the improvement in the measurement of the heavy quarkonia signals with this dHLT in place, with the use of Monte-Carlo simulations of heavy-ion collisions and a simulation of the detector response.
+:   The dimuon spectrometer of the ALICE experiment at the LHC aims to investigate the properties of the system created in ultra-relativistic heavy-ion nuclear collisions, by using heavy quarkonia (J/$\psi$ and Upsilon families) as a probe. These mesons are predicted to be produced in abundance at the LHC, but have a small cross-section for decay into dimuon pairs. In order to extract a significant signal from the large muon background sources, a High-Level Trigger (dHLT) has been developed to extend the capabilities of the detector. My thesis details the development and implementation of the dHLT and investigates the improvement in the measurement of the heavy quarkonia signals with this dHLT in place, with the use of Monte-Carlo simulations of heavy-ion collisions and a simulation of the detector response.
 
 ------------------------------------------------------
 
@@ -196,7 +236,7 @@ Graduated
 Thesis Title
 :   Reaction mechanisms of low-energy heavy-ion nuclear physics.
 Short Description of project
-:   The project involved the analysis of data taken at iThemba LABS, near Cape Town, over a period of 2 years from 2000 – 2002. The work involved data-taking shifts at the laboratory and various analyses, including detector calibration and discussion of the results with collaborators at the University of Milan. Two presentations of the work were made to the South African Institute of Physics (SAIP, 2000 and 2001) and a prize for best presentation by a M.Sc. student was won in 2001. Preliminary results were presented at the 2nd International Balkan School on Nuclear Physics , in Bodrum, Turkey in 2000. Results from the thesis helped to construct a comprehensive theory of reaction mechanisms in heavy-ion collisions in the energy range of 100 - 400 MeV.
+:   The project involved the analysis of data taken at iThemba LABS, near Cape Town, over a period of 2 years from 2000 – 2002. The work involved data-taking shifts at the laboratory and various analyses, including detector calibration and discussion of the results with collaborators at the University of Milan. Two presentations of the work were made to the South African Institute of Physics (SAIP, 2000 and 2001) and a prize for best presentation by a M.Sc. student was won in 2001. Preliminary results were presented at the 2nd International Balkan School on Nuclear Physics, in Bodrum, Turkey in 2000. Results from the thesis helped to construct a comprehensive theory of reaction mechanisms in heavy-ion collisions in the energy range of 100 - 400 MeV.
 
 --------------------------------------------------
 
@@ -227,16 +267,8 @@ Prizes/scholarships won
 Other Research Activities
 --------------------------
 
-June 2014
-:   Tutor for RECAS/CASAP Summer School on Science Gateways (Catania, Italy).
-
 March 2014
 :   Consultant to OpenUCT for the "Discoverability of African Scholarship" workshop, funded by Carnegie foundation, held in Nairobi.
-
---------------------------------------------------
-
-March 2012
-:   Visiting Lecturer at Ecole Nationale Superieur Informatique (ENSI) in Tunis, Tunisia. Conducted a week long course on grid computing for informatics applications as well as a two-day conference.
 
 --------------------------------------------------
 
@@ -346,8 +378,8 @@ Peer-reviewed  Research Outputs
   * Benchmarks and implementation of the ALICE high level trigger. By ALICE Collaboration (T. Alt et al.) 2006, 5pp. IEEE Trans.Nucl.Sci.53:854-858,2006.
   * Real Time Global Tests of the ALICE High Level Trigger Data Transport Framework. By ALICE Dimuon Spectrometer Collaboration (B. Becker et al.) Jan 2008. 8pp. Published in IEEE Trans.Nucl.Sci.55:703-709, 2008.
   * Pseudorapidity Distiribution of Charged Particles in d + Au Collisions at sqrt(s) = 200 GeV. By PHOBOS Collaboration (B.B. Back et al.). Nov 2003. 4pp. Phys.Rev.Lett.93:082301 (2004)
-  * Centrality Dependance Of Charged Hadron Transverse Momentum Spectra In d + Au Collisions At √s= 200 GeV. By PHOBOS Collaboration (B.B. Back et al.) Phys. Rev. Lett. 91, 072302 (2003)
-  * Centrality Dependence of Charged Anti-Particle to Particle Ratios Near Mid-Rapdity in d + Au Collsions at √s = 200 GeV. By PHOBOS Collaboration (B.B. Back et al.). Nov. 2003. 4pp. Phys. Rev. C70 , 011901 (2004)
+  * Centrality Dependance Of Charged Hadron Transverse Momentum Spectra In d + Au Collisions At sqrt(s)= 200 GeV. By PHOBOS Collaboration (B.B. Back et al.) Phys. Rev. Lett. 91, 072302 (2003)
+  * Centrality Dependence of Charged Anti-Particle to Particle Ratios Near Mid-Rapdity in d + Au Collsions at sqrt(s) = 200 GeV. By PHOBOS Collaboration (B.B. Back et al.). Nov. 2003. 4pp. Phys. Rev. C70 , 011901 (2004)
   * Emission of Li,9,7Be and B fragments in the interaction of 12C with 93Nb between 200 and 400 MeV. By B. Becker, F. Albertini, E. Gadioli, G.F. Steyn, M. Cavinato, S.H. Connell, A.A. Cowley, E. Fabrici, S.V. Förtsch, E. Gadioli      Erba, J.J. Lawrie and E. Sideras Haddad. Eur. Phys. J. A 18(4), pp 639 – 644 (2003)
 
 Software Products
