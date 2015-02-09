@@ -10,7 +10,7 @@ pdf: resume.md
 html: style_chmduquesne.css resume.md
 	pandoc --standalone -H style_chmduquesne.css \
         --from markdown --to html \
-        -o resume.html resume.md
+        -o resume.html --bibliography citations.bib resume.md
 
 docx: resume.md
 	pandoc -s -S resume.md -o resume.docx
