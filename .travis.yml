@@ -1,0 +1,7 @@
+language: bash
+sudo: required
+services: docker
+install:
+  - make
+notifications:
+  email: brucellino@gmail.com
