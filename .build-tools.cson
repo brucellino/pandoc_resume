@@ -1,0 +1,23 @@
+providers: [
+  {
+    key: "bt"
+    config:
+      commands: [
+        {
+          project: "/home/becker/Documents/admin/CVs/pandoc_resume"
+          source: "/home/becker/Documents/admin/CVs/pandoc_resume/.build-tools.cson"
+          name: "make"
+          command: "make"
+          wd: "."
+          env: {}
+          modifier: {}
+          stdout:
+            highlighting: "nh"
+          stderr:
+            highlighting: "nh"
+          output: {}
+          version: 1
+        }
+      ]
+  }
+]
