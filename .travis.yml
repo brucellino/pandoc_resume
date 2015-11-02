@@ -2,8 +2,8 @@ language: bash
 sudo: required
 services: docker
 before_install:
-  - apt-get install buld-essential
-  - apt-get install pandoc context
+  - sudo apt-get install buld-essential
+  - sudo apt-get install pandoc context
 install:
   - make
 notifications:
