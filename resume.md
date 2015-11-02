@@ -381,7 +381,7 @@ Grid, HPC
 :   Globus Toolkit, gLite, GridWay, Swift, SAGA, OpenMPI, TORQUE/MAUI, CREAM
 
 Cloud
-:   OpenNebula, kvm, OCCI.
+:   Docker, OpenNebula, kvm, OCCI
 
 Web
 :   HTML4, Markdown, AngularJS, JSR168/286 (Portlet Specification)
