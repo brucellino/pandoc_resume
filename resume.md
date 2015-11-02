@@ -35,22 +35,17 @@ A strong believer in the Open Access and Open Science movement, his current rese
 Research Impacts and Summary
 ----------------------------
 
-Research outputs including peer reviewed articles, presentations, conference proceedings, source code, etc are summarised at the links below.
+Research outputs including peer reviewed articles, presentations, conference proceedings, source code, etc are summarised at:
 
 ORCID
-:    orcid.org/0000-0002-6607-7145
+:    [orcid.org/0000-0002-6607-7145](http://orcid.org/0000-0002-6607-7145)
+
+Github
+:   [https://github.com/brucellino](https://github.com/brucellino)
 
 Google Scholar
-:   http://scholar.google.it/citations?user=IjK816QAAAAJ&hl=en
+:   [http://scholar.google.it/citations?user=IjK816QAAAAJ&hl=en](http://scholar.google.it/citations?user=IjK816QAAAAJ&hl=en)
 
-ResearchGate
-:   https://www.researchgate.net/profile/Bruce_Becker4
-
-ImpactStory
-:   https://impactstory.org/BruceBecker
-
-Open Source
-:   https://github.com/brucellino
 
 Current Responsibilities
 ------------------------
@@ -136,6 +131,7 @@ Duration
 
 Coordinator
 :   Sigma Orionis (France)
+
 Responsibilities
 :   Development of software for federated identity infrastructure and services in the region (identity providers and certificate authorities)
     Development of science gateways and application portlets for researchers in human lanaguages, astronomy and other fields.
@@ -222,8 +218,12 @@ Bruce has acted as a tutor, lecturer and teacher in various positions, from high
 
 -------------------------------------------------
 
+October 2015
+:   Designed and ran 3-day "Ansible Bootcamp - DevOps for Identity Federations"  (Catania, Italy). The course was conducted in English
+
 June 2014
-:   Tutor for RECAS/CASAP Summer School on Science Gateways (Catania, Italy). The course was conducted in **English** and **Italian**.
+:   Tutor for two-week RECAS/CASAP Summer School on Science Gateways (Catania, Italy). The course was conducted in **English** and **Italian**.
+:   Tutor and co-organiser of "Software Carpentry Bootcamp" at e-Research Africa conference, Cape Town.
 
 -------------------------------------------------
 
@@ -257,10 +257,13 @@ Education
 
 Ph.D (Physics)
 :   University of Cape Town
+
 Graduated
 :   2007
+
 Thesis title
 :   **Design, implementation and physics performance of the ALICE dimuon spectrometer High-Level Trigger (dHLT).**
+
 Short description
 :   The dimuon spectrometer of the ALICE experiment at the LHC aims to investigate the properties of the system created in ultra-relativistic heavy-ion nuclear collisions, by using heavy quarkonia (J/$\psi$ and Upsilon families) as a probe. These mesons are predicted to be produced in abundance at the LHC, but have a small cross-section for decay into dimuon pairs. In order to extract a significant signal from the large muon background sources, a High-Level Trigger (dHLT) has been developed to extend the capabilities of the detector. My thesis details the development and implementation of the dHLT and investigates the improvement in the measurement of the heavy quarkonia signals with this dHLT in place, with the use of Monte-Carlo simulations of heavy-ion collisions and a simulation of the detector response.
 
@@ -268,10 +271,13 @@ Short description
 
 M.Sc (Physics)
 :   University of Cape Town
+
 Graduated
 :   December 2002
+
 Thesis Title
 :   Reaction mechanisms of low-energy heavy-ion nuclear physics.
+
 Short Description of project
 :   The project involved the analysis of data taken at iThemba LABS, near Cape Town, over a period of 2 years from 2000 – 2002. The work involved data-taking shifts at the laboratory and various analyses, including detector calibration and discussion of the results with collaborators at the University of Milan. Two presentations of the work were made to the South African Institute of Physics (SAIP, 2000 and 2001) and a prize for best presentation by a M.Sc. student was won in 2001. Preliminary results were presented at the 2nd International Balkan School on Nuclear Physics, in Bodrum, Turkey in 2000. Results from the thesis helped to construct a comprehensive theory of reaction mechanisms in heavy-ion collisions in the energy range of 100 - 400 MeV.
 
@@ -280,10 +286,13 @@ Short Description of project
 
 B.Sc(Hons)
 :   University of Cape Town
+
 Graduated
 :   December 1999
+
 Major
 :   Large-scale structure of the universe.
+
 Subjects  taken
 :   quantum-, classical- and statistical mechanics, classical electrodynamics, particle physics, computational physics,  general relativity, relativistic quantum mechanics.
 
@@ -292,10 +301,13 @@ Subjects  taken
 
 B.Sc (Physics, Astronomy)
 :   University of Cape Town
+
 Graduated
 :   December 1998
+
 Subjects taken
 :   optical physics, solid-state physics, thermal physics, nuclear physics, laboratory course, stellar structure and evolution, stellar atmospheres, galactic structure and evolution, applied mathematics.
+
 Prizes/scholarships won
 :   Yvonne Parfitt Memorial Scholarship for tertiary study (one of 5 awarded annually in the Western Cape, 4 year duration : 1996 – 2000.)
     Dean's Merit list, 1997
@@ -303,6 +315,9 @@ Prizes/scholarships won
 
 Other Research Activities
 --------------------------
+
+Januaryy 2015 - present
+: CODE-RADE (**Co**ntinuous **De**livery of **R**esearch **A**pplciations in a Distributed Environment)
 
 March 2014
 :   Consultant to OpenUCT for the "Discoverability of African Scholarship" workshop, funded by Carnegie foundation, held in Nairobi.
@@ -335,7 +350,7 @@ September 2005 – October 2005
 ------------------------------------
 
 November 2004
-:   Organised and executed first Scientific Clustering Applications Workshop (http://hep.phy.uct.ac.za/scaw) in collaboration with IBM in Cape Town, South Africa. This was a meeting of a representative group of about 50 South African scientists using or planning to use high-performance computing (HPC) in their field of science. Invited speakers fro m the several universities in South Africa, representatives from HP, IBM and local HPC vendors were present.
+:   Organised and executed first Scientific Clustering Applications Workshop in collaboration with IBM in Cape Town, South Africa. This was a meeting of a representative group of about 50 South African scientists using or planning to use high-performance computing (HPC) in their field of science. Invited speakers fro m the several universities in South Africa, representatives from HP, IBM and local HPC vendors were present.
 
 -------------------------------------
 
@@ -384,7 +399,7 @@ Cloud
 :   Docker, OpenNebula, kvm, OCCI
 
 Web
-:   HTML4, Markdown, AngularJS, JSR168/286 (Portlet Specification)
+:   HTML4, Markdown, JSR168/286 (Portlet Specification)
 
 Automation
 :   Ansible, Jenkins, Puppet, Nagios, Travis
