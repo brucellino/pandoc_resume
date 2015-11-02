@@ -1,9 +1,16 @@
 language: bash
-sudo: required
+sudo: false
 services: docker
+addons:
+  apt_packages:
+    - context
+    - pandoc
+    - texlive-latex-base
+    - texlive-latex-extra
+    - texlive-fonts-recommended
+    - texlive-latex-recommended
 before_install:
-  - sudo apt-get install build-essential
-  - sudo apt-get install pandoc context
+  - "wget -q -O - https://github.com/yihui/crandalf/raw/master/inst/scripts/install-pandoc | bash"
 install:
   - make
 notifications:
