@@ -37,6 +37,9 @@ Research Impacts and Summary
 
 Research outputs including peer reviewed articles, presentations, conference proceedings, source code, etc are summarised at the links below.
 
+ORCID
+:    orcid.org/0000-0002-6607-7145
+
 Google Scholar
 :   http://scholar.google.it/citations?user=IjK816QAAAAJ&hl=en
 
@@ -54,14 +57,15 @@ Current Responsibilities
 
  * Technical Coordinator of the Africa-Arabia Regional Operations Centre
  * Coordination of WLCG activities in South Africa (ATLAS and ALICE offline computing at South African sites), including resolution of data transport, planning and operational issues.
- * Responsible for Sub-Saharan African participation to CHAIN-REDS project
- * Development of data infrastructure and services for African research institutes, particularly African Population Health Research Centre (Nairobi)
+ * Responsible for South African participation in the Sci-GaIA EU Horizon-2020 funded project
+ * Development of data infrastructure and services for African research institutes
  * Development of SAGrid Strategic Plan, including sustainability, research and development, human capital and international cooperation.
  * Development of advanced services for SAGrid application developers and site operations team – executable infrastructure and continuous integration platforms.
 
 Current Research Interests
 --------------------------
 
+  * Making the web work for science - tools and services for todays's scientists (web portals, science gateways, collaboration platforms, dissemination, etc.)
   * Application development and integration - exploiting distributed computing systems
   * Large-scale scientific workflows - application to Climate, Bioinformatics, Astronomy, Agriculture and other scientific domains.
   * Monte-Carlo simulations of relativistic heavy-ion collisions
@@ -69,13 +73,17 @@ Current Research Interests
   * Experimental relativistic heavy-ion physics, data analysis
   * Grid, distributed and cluster computing, including HPC
   * Scholarly communication in the 21st century
-  * Making the web work for science - tools and services for todays's scientists (web portals, science gateways, collaboration platforms, dissemination, etc.)
 
-Previous responsibilities in SANREN
+
+Previous responsibilities in CSIR Meraka
 -----------------------------------
+
+2015
+:   Development of initial design and service offering  of Data Intensive Research Infrastructure for South Africa (DIRISA)
 
 2014
 :   Research support to Human Heredity and Health in Africa Project (H3Africa) - consultancy, service development and high-performance data transfer support
+
 2013
 :   Contribution of the SAGrid component of the National Initiative for Cyberinfrastructure Report (NICI) in South Africa, a document prepared for national government regarding harmonisation of e-Infrastructure
 :   Collaboration with SKA Africa project and other astronomy user groups - providing technical support, consultancy and training on distributed computing services of the national grid and NREN.
@@ -88,12 +96,30 @@ Participation in EU FP7 and other international projects
 ---------------------------------
 
 Title
+:   **Sci-GaIA** - Energising Scientific Endeavour through Science Gateways and e-Infrastructures in Africa
+
+Duration
+:   2015-2017
+
+Coordinator
+:   Brunel University
+
+Responsibilities
+:   Creation of an online discussion forum in the area of e-Infrastructures.
+    Support the creation of an African Policy Management Authority and the establishment of Identity Federations to be connected to eduGAIN.
+    Creation of educational and training content for the Sci-GaIA online learning platform (OpenEdX-based).
+    Ensure the interoperability and interoperation between the African, the EU and the global e-Infrastructures
+
+
+Title
 :   **CHAIN-REDS** - Coordination and Harmonisation of Advanced e-Infrastructures for Research and Educational Data Sharing
+
 Duration
 :   2013-2015
+
 Coordinator
-:
-    INFN Roma III (Italy)
+:   INFN Roma III (Italy)
+
 Responsibilities
 :   Creation of Africa-Arabia Regional Operations Centre and signature of MoU with EGI.eu for the region.
     Identification and support of regional use cases for distributed data infrastructure (public health, astronomy, bioinformatics, climate)
@@ -104,14 +130,14 @@ Responsibilities
 
 Title
 :    **ei4Africa** - e-Infrastructures for Africa
+
 Duration
 :    2013-2014
+
 Coordinator
-:
-    Sigma Orionis (France)
+:   Sigma Orionis (France)
 Responsibilities
-:
-    Development of software for federated identity infrastructure and services in the region (identity providers and certificate authorities)
+:   Development of software for federated identity infrastructure and services in the region (identity providers and certificate authorities)
     Development of science gateways and application portlets for researchers in human lanaguages, astronomy and other fields.
     Training and education of researchers and technicians in the region.
 
@@ -119,10 +145,13 @@ Responsibilities
 
 Title
 :    **CHAIN** - Coordination and Harmonisation of Advanced e-Infrastructures
+
 Duration
 :   2011-2012
+
 Coordinator
 :    INFN Roma III (Italy)
+
 Responsibilities
 :   Representation of Sub-Saharan African institutions in project deliverables and description of state of the art
     Coordination of continental scientific collaborations, support in using the services provided by global e-Infrastructure
@@ -133,10 +162,13 @@ Responsibilities
 
 Title
 :   **EPIKH** - Exchange Programme to advance e-Infrastructure Know-How.
+
 Coordinator
 :   Consorzio COMETA (Italy)
+
 Duration
 :   2008 - 2012
+
 Role
 :   Co-Author of the project, country coordinator for South Africa. During the four years of the project, a total of 8 schools were held in South Africa (organised by Bruce and collaborators) and several staff and students were exchanged between South Africa and EPIKH project partners.
 
@@ -144,10 +176,13 @@ Role
 
 Title
 :   **HP-UNESCO Brain Gain Initiative**
+
 Duration
 :   2007-2012
+
 Coordinator
 :   UNESCO
+
 Role
 :   Responsible for the training activities of more than 20 researchers from around the African continent and middle East. Organised training and development sessions in Pretoria and Johannesburg, in collaboration with HP.
     Deployment and integration of first grid sites in Africa.
@@ -158,18 +193,20 @@ Postdoctoral Positions
 
 June 2006 – August 2006
 :   Postdoctoral Fellow at INFN Sezione di Cagliari, Gruppo III.
+
 Activities
 :   Work involved
 
       * Monte-Carlo studies of Upsilon suppression in predicted conditions of the Quark-Gluon Plasma generated by the LHC, measured by the ALICE experiment.
       * Development of offline alignment algorithm
       * Site operations of CyberSAR and ALICE Tier 2 grid node.
-      * shifts at ALICE HLT, dimiuon spectrometer and other instrument commissioning  
+      * shifts at ALICE HLT, dimiuon spectrometer and other instrument commissioning
 
 --------------------------
 
 Feb. 2005 - Feb. 2006
 :   Postdoctoral study (Ph.D. pending) at the Departement d'Astrophysique, Physique Nucleaire et d'Instrumentation Associee (DAPNIA) of the Commissariat a l'Energie Atomique (CEA), Saclay, France.
+
 Activities
 :   This work involved the  implementation of a detector alignment algorithm into the ALICE offline code.
 
@@ -298,7 +335,7 @@ September 2005 – October 2005
 ------------------------------------
 
 November 2004
-:   Organised and executed first Scientific Clustering Applications Workshop (http://hep.phy.uct.ac.za/scaw) in collaboration with IBM in Cape Town, South Africa. This was a meeting of a representative group of about 50 South African scientists using or planning to use high-performance computing (HPC) in their field of science. Invited speakers fro m the several universities in South Africa, representatives from HP, IBM and local HPC vendors were present.  
+:   Organised and executed first Scientific Clustering Applications Workshop (http://hep.phy.uct.ac.za/scaw) in collaboration with IBM in Cape Town, South Africa. This was a meeting of a representative group of about 50 South African scientists using or planning to use high-performance computing (HPC) in their field of science. Invited speakers fro m the several universities in South Africa, representatives from HP, IBM and local HPC vendors were present.
 
 -------------------------------------
 
@@ -350,7 +387,7 @@ Web
 :   HTML4, Markdown, AngularJS, JSR168/286 (Portlet Specification)
 
 Automation
-:   Ansible, Jenkins, Puppet, Nagios
+:   Ansible, Jenkins, Puppet, Nagios, Travis
 
 -------------------------------------------
 
@@ -359,7 +396,6 @@ Co-Authored Book Chapters
 
   * Andronico, G., Balaž, A., Banda, T. M., Barbera, R., Becker, B., Chattopadhyay, S., Chen, G., Ciuffo, L. N., Dhekne, P. S., Gavillet, P., Jalife, S., Kondoro, J. W., Lin, S. C., Marechal, B. M., Masoni, A., Matyska, L., Merrouch, R., Mitsos, Y., Nan, K., Napis, S., Nassar, S., Paganoni, M., Prnjat, O., Qian, D., Qjan, S., Reale, M., Ruggieri, F., Şener, C., Singh, D., Torman, Y., Voss, A., West, D., & Wright, C. (2014). E-Infrastructures for International Cooperation. In Cyber Behavior: Concepts, Methodologies, Tools, and Applications (pp. 380-430). Hershey, PA: Information Science Reference. doi:10.4018/978-1-4666-5942-1.ch022
 
----------------------------------------------
 
 Peer-reviewed  Research Outputs
 -------------------------------
@@ -382,27 +418,14 @@ Peer-reviewed  Research Outputs
   * Centrality Dependence of Charged Anti-Particle to Particle Ratios Near Mid-Rapdity in d + Au Collsions at sqrt(s) = 200 GeV. By PHOBOS Collaboration (B.B. Back et al.). Nov. 2003. 4pp. Phys. Rev. C70 , 011901 (2004)
   * Emission of Li,9,7Be and B fragments in the interaction of 12C with 93Nb between 200 and 400 MeV. By B. Becker, F. Albertini, E. Gadioli, G.F. Steyn, M. Cavinato, S.H. Connell, A.A. Cowley, E. Fabrici, S.V. Förtsch, E. Gadioli      Erba, J.J. Lawrie and E. Sideras Haddad. Eur. Phys. J. A 18(4), pp 639 – 644 (2003)
 
-Software Products
------------------
-
-  * Bruce Becker et al.. (2014). DevOps: Ansible LDAP/Shibboleth Role Release. ZENODO. 10.5281/zenodo.12359
-  * Bruce Becker. (2014). SAGrid Supported Software Functional Tests. ZENODO. 10.5281/zenodo.10234
-  * Bruce Becker et al.. (2014). IDPPublic. ZENODO. 10.5281/zenodo.12177
-  * Bruce Becker et al.. (2014). AAROC DevOps Ansible. ZENODO. 10.5281/zenodo.10232
-
-ALICE Internal Notes
---------------------
-
-  * ALICE-INT-2008-013 :   Implementation of a hit reconstruction algorithm for the
-  * ALICE Dimuon High-Level Trigger (2008)
-  * ALICE-INT-2007-022  : ALICE Dimuon High-Level Trigger: Project Review
 
 Articles contributed to conferences:
 ------------------------------------
 
+  * Prnjat, O.; Becker, B. ; Barbera, R. ; Kanellopoulos, C. ; Koumantaros, K. ; Mayo-Garcia, R. ; Ruggieri, F., "Enabling intercontinental e-Infrastructures - a case for Africa", IST-Africa 2015 (2015), (Lilongwe, Malawi) DOI:10.1109/ISTAFRICA.2015.7190535
+  * Prnjat, O. ; Rodriguez Pascual, M. ; Becker, B. ; Barbera, R., "Surveying clouds in a global environment", IST-Africa 2015 (2015), (Lilongwe, Malawi) DOI:10.1109/ISTAFRICA.2015.7190536
   * B. Becker, F. Riekerts, "Breaking Down Barriers to Developing Applications of e-Infrastructures - The SAGrid-2.0 case.", UbuntunetConnect 2014 (2014). (Lusaka, Zambia)
-  * R. Barbera, B. Becker, S.  Villalónd, R. Mayo-García, C. Kanellopoulos, L. A. Núñez, A. Rubio-Montero, C. Carrubba, O. Prnjat,
-    G. Inserra, K. Koumantaros, R. Ricceri, F. Ruggieri (On behalf of the CHAIN-REDS project) - "The CHAIN-REDS DART Challenge", IV Conferência BIREDIAL-Istec, 2014 (Porto-Allegre, Brasil)
+  * R. Barbera, B. Becker, S.  Villalónd, R. Mayo-García, C. Kanellopoulos, L. A. Núñez, A. Rubio-Montero, C. Carrubba, O. Prnjat, G. Inserra, K. Koumantaros, R. Ricceri, F. Ruggieri (On behalf of the CHAIN-REDS project) - "The CHAIN-REDS DART Challenge", IV Conferência BIREDIAL-Istec, 2014 (Porto-Allegre, Brasil)
   * B. Becker, "SAGrid-2.0", e-Research Africa Conference 2013 (2013). (Cape Town, South Africa)
   * B. Becker (for the CHAIN project), "Overview of e-Infrastructure and applications in Europe and Africa", Joint CHAIN-REDS/ei4Africa workshop at Ubuntunet Connect 2013 (Kigali, Rwanda)
   * B. Becker, "Prospects for Extending Distributed Computing Infrastructure in Africa", IST-Africa 2013 (Nairobi, Kenya)
@@ -412,14 +435,29 @@ Articles contributed to conferences:
   * B. Becker, "The South African National Grid: Blueprint, Impact and Perspectives for African Research", IST-Africa 2011 (Gaborone, Botswana)
   * B. Becker and T. Banda, "Coordination and Harmonisation of Advanced e-Infrastructures (CHAIN)", Ubuntunet Connect 2010. (Johannesburg, South Africa)
   * B. Becker, Workshop organiser - "Emerging e-Infrastructures for Science in Sub-Saharan Africa"; B. Becker, "Development and Status of the South African National Grid", IST-Africa 2010 (Durban, South Africa)
-  * B. Becker, "The South African National Compute Grid", IST-Africa 2009 (Kampala, Uganda)
-  * PLS 2010 Jordan
+  * B. Becker, "The South African National Compute Grid", IST-Africa 2009 (Kampala, Uganda) Published in: IST-Africa 2009 Conference Proceedings, Paul Cunningham and Miriam Cunningham (Eds), IIMC International Information Management Corporation, 2009, ISBN: 978-1-905824-11-3
   * The ALICE Dimuon Spectrometer High Level Trigger, A. Szostak et. al. IEEE NSS Conference, Dresden, 2008)
   * "The South African National Compute Grid", South African Institute of Physics, Polokwane, 2008. Sean Murray, Bruce Becker
   * Grid infrastructure in High Energy Physics for the ALICE experiment at CERN, Bruce Becker, National Conference on E-Science, Napoli, June 2008
   * "High-performance computing in the ALICE Experiment at CERN", CHPC National Conference, Cape Town, 2007.
-  * * Physics Performance of the ALICE dimuon High-Level Trigger, Bruce Becker, Artur Szostak, 3rd National Conference on ALICE Physics, Frascati, September 2007
+  * Physics Performance of the ALICE dimuon High-Level Trigger, Bruce Becker, Artur Szostak, 3rd National Conference on ALICE Physics, Frascati, September 2007
   * CARMEN : A General-Purpose Cluster for Scientific Computing using OSCAR By Bruce Becker and Mark N.J. Horner, Proceedings of the 2nd Annual OSCAR Symposium, Winnipeg,  Canada (May 2004)
   * South African Institute of Physics 2003 : “A forward proton calorimeter for the PHOBOS experiment at RHIC”.  B. Becker, P. A. Steinberg
   * "Experiences with the ALICE Data Grid and South African Grid Prototype", Scientific Clustering Applications Workshop, Cape Town 2007.
   * "Physics Performance of the dHLT", to the international dHLT Review, Cape Town, November 2006
+
+Software Products
+-----------------
+
+  * Bruce Becker et al. (2015). CODE-RADE: Continuous Delivery of Research Applications in a Distributed Environment (Infrastruture Foundation Release). ZENODO pending. https://github.com/AAROC/CODE-RADE/releases/tag/v0.0.1
+  * Bruce Becker et al. (2014). DevOps: Ansible LDAP/Shibboleth Role Release. ZENODO. 10.5281/zenodo.12359
+  * Bruce Becker. (2014). SAGrid Supported Software Functional Tests. ZENODO. 10.5281/zenodo.10234
+  * Bruce Becker et al. (2014). IDPPublic. ZENODO. 10.5281/zenodo.12177
+  * Bruce Becker et al. (2014). AAROC DevOps Ansible. ZENODO. 10.5281/zenodo.10232
+
+ALICE Internal Notes
+--------------------
+
+  * ALICE-INT-2008-013 :   Implementation of a hit reconstruction algorithm for the
+  * ALICE Dimuon High-Level Trigger (2008)
+  * ALICE-INT-2007-022  : ALICE Dimuon High-Level Trigger: Project Review
