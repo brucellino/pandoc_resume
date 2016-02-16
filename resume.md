@@ -316,7 +316,7 @@ Prizes/scholarships won
 Other Research Activities
 --------------------------
 
-Januaryy 2015 - present
+January 2015 - present
 : CODE-RADE (**Co**ntinuous **De**livery of **R**esearch **A**pplciations in a Distributed Environment)
 
 March 2014
@@ -384,7 +384,7 @@ adopt new computer languages, technologies, methodologies and toolkits to addres
 ------------------------------------------
 
 Scientific Applications
-:   HepMC, CLHEP, Pythia6/7, GEANT3/4, ROOT, GADGET, OpenFOAM
+:   HepMC, CLHEP, Pythia, GEANT3/4, ROOT, GADGET, HTK
 
 Languages and Tools
 :   C/C++, python, FORTRAN, JavaScript, YAML, R, git, svn.
@@ -473,6 +473,5 @@ Software Products
 ALICE Internal Notes
 --------------------
 
-  * ALICE-INT-2008-013 :   Implementation of a hit reconstruction algorithm for the
-  * ALICE Dimuon High-Level Trigger (2008)
+  * ALICE-INT-2008-013 :   Implementation of a hit reconstruction algorithm for the ALICE Dimuon High-Level Trigger (2008)
   * ALICE-INT-2007-022  : ALICE Dimuon High-Level Trigger: Project Review
