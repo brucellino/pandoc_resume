@@ -1,89 +1,95 @@
-Bruce Becker
+Bruce Becker, Ph.D.
 ============
 
------------------------------------------------
-C.S.I.R. Meraka Institute                                   brucellino@gmail.com
-Building 43, C.S.I.R. Campus                                  bbecker@csir.co.za
-1 Meiring Naude Road                                           + 39 392 622 9279
-Pretoria 0001                                             
--------------------------------------------------
+------------------------                              --------------------------
+C.S.I.R. Meraka Institute                             brucellino@gmail.com
+Building 43, C.S.I.R. Campus                          bbecker@csir.co.za
+1 Meiring Naude Road                                  [brucellino.github.io](http://brucellino.github.io)
+Pretoria 0001                                         ![twitter](407-twitter.svg) [brusisceddu](https://twitter.com)
+                                                      ![ORCID logo](vector_iD_icon.svg.png) [0000-0002-6607-7145](https://orcid.org/0000-0002-6607-7145)
+                                                      ![octocat](mark-github.svg) [brucellino](https://github.com/brucellino)
+                                                      ![octocat](mark-github.svg) [AAROC]([https://github.com/AAROC) 
+--------------------------                            ----------------------------
 
-**Contact Details**
-Home page: [http://brucellino.github.io](brucellino.github.io)
-Twitter: [https://twitter.com/brusisceddu](@brusisceddu)
-ORCID: [https://orcid.org/0000-0002-6607-7145](0000-0002-6607-7145)
-LinkedIn: [https://linked.com/in/brucellino](linkedin.com/in/brucellino)
-StackExchange: [https://stackexchange.com/users/3206984/bruce-becker](stackexchange.com/users/3206984/bruce-becker)
+--------------------       ----------------------------
+**Date of Birth**          9 October 1977
+**Highest Degree**         Ph.D. (2007, University of Cape Town)
+**Nationality**            South African
+**Residence**              South African, Italian 
+**Languages**              English (home language)
+                           Italian (second home language)
+                           French (read, write speak)
+                           Afrikaans (read, write, speak)
+----------------------     ---------------------------
 
-**Current Position**
-Senior Researcher, SANREN Competency Area, CSIR Meraka Institute
 
-Personal Information
----------------------
+# Profile
 
-Date of Birth
-:   9 October 1977
-Highest Degree
-:   Ph.D. (2007, University of Cape Town)
-Nationality
-:   South African
-Residence
-:   South Africa
-:   Italian
-Languages
-:   English (home language), Italian (second home language), French (read, write speak) Afrikaans (read, write,  speak)
+Physicist who has made a career out of building digital infrastructures for research communities. As a researcher, he has keen insight into both the needs and expectations of the researcher communities, and supports the Open Science movement. As a technologist, has embraced the DevOps movement and the "everything as code" pattern. As an African, he has worked in challenging and complex environments, equally comfortable in the South and North. Able to meet researchers, research administrators, funders and infrastructure providers at the approprite level, in order to build healthy research ecosystems. Passion for teaching, learning, building services and collaborating in any field of research.
 
-Profile
--------
+## Skills
 
-Bruce Becker is a scientist who has made a career out of building digital infrastructures for research communities. As a researcher, he has keen insight into both the needs and expectations of the researcher communities. As an African, he has worked in the challenging and complex environment of the continent, and is able to meet both research, research administrators, funders and infrastructure providers at the approprite level.\
-He completed his studies in 2007 with a Ph.D in physics from the University of Cape Town, working on the High-Level Trigger of the ALICE  Dimuon Spectrometer at the CERN LHC. He completed two postdoctoral fellowships at the CEA (Saclay, France) and INFN (Cagliari, Italy), extending his work on ALICE and moving into the area of HPC and grid computing. With a strong analytical and technical background, his work consisted mainly of the development and optimisation of algorithms and integration of online and offline workflows. Gaining experience through working in teams and large collaborations, he developed the management, communication, planning and organisational skills to undertake research and development projects at national scale.\
-In 2008 he kickstarted the South African National Grid (SAGrid) – a federation of compute resources providers from research groups, universities and national research laboratories in South Africa. In collaboration with several European projects, he coordinated the deployment of HPC and data resources, including the training of users and technical staff, as well as the identification and porting of several scientific applications. The culmination of this phase resulted in the harmonisation of the initiative with other South African e-Infrastructure initiatives, in particular the National Research Network (SANREN), and the formation of the Africa-Arabia Regional Operations Centre (AAROC).\
-A strong believer in the Open Access and Open Science movement, his current interests fall into e-Infrastructure and scientific research domains. His current responsibilities involve ensuring the availability and development of a pan-African platform for scientific collaboration, as well as maintaining interoperability with other regional infrastructures such as EGI. He remains active in education and training, developing tools and techniques for 21st century research and collaboration. He has worked on improving and demonstrating the potential of cloud platforms, builidng platforms for continuous delivery of research applications, executable infrastructure and curricula to develop the skills of the Research Infrastructure Engineer profile. \
+Strong analytical and technical background, paired with strong written and oral communication skills. Good experience managing and collaborating with communities of practice. Experience in medim-size teams and large collaborations. Management, communication, planning and organisational skills needed to undertake research and development projects at national and regional scale. Software engineering, data analytics, infrastructure engineering, open science, and platform development. Has delivered scientific application delivery platforms, HPCs, grids, clouds, digital repositories, science gateways, discussion fora, chat bots, continuous integration and delivery platforms.
+
+## Career Highlights
+
+Ph.D in physics (2007, University of Cape Town) on the High-Level Trigger of the ALICE Dimuon Spectrometer at the CERN LHC. 
+Completed two postdoctoral fellowships at the CEA (Saclay, France) and INFN (Cagliari, Italy), extending his work on ALICE, moving into the area of HPC and grid computing.
+Started South African National Grid (SAGrid, 2008) – a federation of compute resources providers from research groups, universities and national research laboratories in South Africa. In collaboration with several European projects, coordinated the deployment of HPC and data resources, training users and technical staff, as well as identification and porting of scientific applications. The culmination of this phase resulted in the harmonisation of the initiative with other South African e-Infrastructure initiatives, in particular the National Research Network (SANREN), and the formation of the Africa-Arabia Regional Operations Centre (AAROC, 2013). 
+Current interests fall into e-Infrastructure and scientific research domains. urrent responsibilities involve ensuring the availability and development of a pan-African platform for scientific collaboration, as well as maintaining interoperability with other regional infrastructures such as EGI. He remains active in education and training, developing tools and techniques for 21st century research and collaboration. He has worked on improving and demonstrating the potential of cloud platforms, builidng platforms for continuous delivery of research applications, executable infrastructure and curricula to develop the skills of the Research Infrastructure Engineer profile. 
 Personal interests include music, the impact of climate change, travel, history, the solar system, outdoor activities and languages.
 
-Summary of Research and Impact
-----------------------------
+## Software and Technical
 
-Research outputs including peer reviewed articles, presentations, conference proceedings, source code, _etc_ are summarised at:
+Given the responsibilities of his career, Bruce has had to quickly learn and
+adopt new computer languages, technologies, methodologies and toolkits to address a wide range of scientific and technical problems. He enjoys learning new technology and considers it a stimulating challenge. He believes in sustainable development of quality software, and applies Agile methodology to his projects, through the use of distributed version control and continuous integration platforms such Jenkins, Travis and Github.
 
-ORCID
-:    [orcid.org/0000-0002-6607-7145](orcid.org/0000-0002-6607-7145)
+------------------------------------------
 
-Github
-:   [https://github.com/brucellino](github.com/brucellino)
-:   [https://github.com/AAROC/](github.com/AAROC)
+Languages and Tools
+:   C/C++, python (incl. NumPy/SciPy stack), ruby (incl. Ruby on Rails), FORTRAN, JavaScript, YAML, JSON, git, REST, SQL
 
-Google Scholar
-:   [http://scholar.google.it/citations?user=IjK816QAAAAJ&hl=en](http://scholar.google.it/citations?user=IjK816QAAAAJ&hl=en)
+Operating Systems
+:   CentOS/RedHat and Debian-based systems
 
+Compute and Data platforms
+:   Globus Toolkit, gLite, GridWay, Swift, SAGA, OpenMPI, TORQUE/MAUI, CREAM, Invenio, xrootd, DPM, SRM 
 
-Current Responsibilities
-------------------------
+Cloud, PaaS
+:   OpenStack, RDO/Triple-O, Docker Stack, Kubernetes, OpenShift, OpenNebula, OCCI
+
+Automation, CI/CD
+:   Ansible, Jenkins, Puppet, Nagios, Travis, Hubot,
+
+-------------------------------------------
+
+# Current Position
+
+Senior Researcher, SANREN Competency Area, CSIR Meraka Institute
+
+## Current Responsibilities
 
  * Coordinator of the Africa-Arabia Regional Operations Centre
  * Architecture, design and delivery of data infrastructure for Data-Intensive Research Initiative for South Africa
  * Development of data infrastructure and services for African research institutes
  * Development of advanced services for application developers and site operations team – executable infrastructure and continuous integration platforms.
+ * Skills transfer
 
-Current Research Interests
---------------------------
+## Current Research Interests
 
   * Making the web work for science - tools and services for todays's scientists (web portals, science gateways, collaboration platforms, dissemination, etc.)
   * Application development and integration - exploiting distributed computing systems
   * Large-scale scientific workflows - application to Climate, Bioinformatics, Astronomy, Agriculture and other scientific domains.
-
   * Image and natural language processing, including machine-learning aspects
   * Experimental relativistic heavy-ion physics, data analysis
   * Grid, distributed and cluster computing, including HPC
   * Scholarly communication in the 21st century
 
-
-Previous responsibilities in CSIR Meraka
------------------------------------
+## Other responsibilities in CSIR Meraka
 
 2017 - present
-:   Design and implementation of DIRISA 
+:   Design and implementation of DIRISA cloud platform.
+
 2015
 :   Development of initial design and service offering  of Data Intensive Research Infrastructure for South Africa (DIRISA)
 
@@ -98,8 +104,7 @@ Previous responsibilities in CSIR Meraka
 2010 - 2012
 :   Development of Advanced Services for the Network, including data transfer gateways and investigation of videoconferencing systems.
 
-Participation in EU FP7, H202 and other international projects
----------------------------------
+# Participation in EU FP7, H202 and other international projects
 
 Title
 :   **Sci-GaIA** - Energising Scientific Endeavour through Science Gateways and e-Infrastructures in Africa
@@ -221,15 +226,25 @@ Activities
       * Shifts at the ALICE experiment dipole commissioning
 
 
-Tutoring and Teaching Positions
--------------------------------
+
+# Tutoring and Teaching Positions
 
 Bruce has acted as a tutor, lecturer and teacher in various positions, from high-school to postgraduate level, since 1996.
+
+March, November 2017
+:   Two instances of the DevOps bootcamp were run in Pretoria (March) and Addis Ababa (November), for the South African National Integrated Cyberinfrastructure Initiative and the UbuntuNet Alliance respectively. The course was conducted in **English**.
+
+-------------------------------------------------
+
+November 2016 
+:   Co-Designed 14-day e-Research Hackfest, run in Lagos, Nigeria. Included the automation of the event checklist, integration tests, platform deployment and Agile board for the participants. The hackfest was reproduced in Ethiopia in 2017. The course was conducted in **English** and **French**.
 
 -------------------------------------------------
 
 October 2015
-:   Designed and ran 3-day "Ansible Bootcamp - DevOps for Identity Federations"  (Catania, Italy). The course was conducted in English
+:   Designed and ran 3-day "Ansible Bootcamp - DevOps for Identity Federations"  (Catania, Italy). The course was conducted in **English**
+
+-------------------------------------------------
 
 June 2014
 :   Tutor for two-week RECAS/CASAP Summer School on Science Gateways (Catania, Italy). The course was conducted in **English** and **Italian**.
@@ -262,34 +277,33 @@ June 2010
 
 --------------------------------------------------
 
-Education
----------
+# Education
 
 Ph.D (Physics)
-:   University of Cape Town
+:    University of Cape Town
 
 Graduated
-:   2007
+:    2007
 
-Thesis title
-:   **Design, implementation and physics performance of the ALICE dimuon spectrometer High-Level Trigger (dHLT).**
+Title
+:    **Design, implementation and physics performance of the ALICE dimuon spectrometer High-Level Trigger (dHLT).**
 
 Short description
-:   The dimuon spectrometer of the ALICE experiment at the LHC aims to investigate the properties of the system created in ultra-relativistic heavy-ion nuclear collisions, by using heavy quarkonia (J/$\psi$ and Upsilon families) as a probe. These mesons are predicted to be produced in abundance at the LHC, but have a small cross-section for decay into dimuon pairs. In order to extract a significant signal from the large muon background sources, a High-Level Trigger (dHLT) has been developed to extend the capabilities of the detector. My thesis details the development and implementation of the dHLT and investigates the improvement in the measurement of the heavy quarkonia signals with this dHLT in place, with the use of Monte-Carlo simulations of heavy-ion collisions and a simulation of the detector response.
+:    The dimuon spectrometer of the ALICE experiment at the LHC aims to investigate the properties of the system created in ultra-relativistic heavy-ion nuclear collisions, by using heavy quarkonia (J/$\psi$ and Upsilon families) as a probe. These mesons are predicted to be produced in abundance at the LHC, but have a small cross-section for decay into dimuon pairs. In order to extract a significant signal from the large muon background sources, a High-Level Trigger (dHLT) has been developed to extend the capabilities of the detector. My thesis details the development and implementation of the dHLT and investigates the improvement in the measurement of the heavy quarkonia signals with this dHLT in place, with the use of Monte-Carlo simulations of heavy-ion collisions and a simulation of the detector response. 
 
 ------------------------------------------------------
 
 M.Sc (Physics)
-:   University of Cape Town
+:    University of Cape Town
 
 Graduated
-:   December 2002
+:    December 2002
 
-Thesis Title
-:   Reaction mechanisms of low-energy heavy-ion nuclear physics.
+Title
+:    **Reaction mechanisms of low-energy heavy-ion nuclear physics.**
 
-Short Description of project
-:   The project involved the analysis of data taken at iThemba LABS, near Cape Town, over a period of 2 years from 2000 – 2002. The work involved data-taking shifts at the laboratory and various analyses, including detector calibration and discussion of the results with collaborators at the University of Milan. Two presentations of the work were made to the South African Institute of Physics (SAIP, 2000 and 2001) and a prize for best presentation by a M.Sc. student was won in 2001. Preliminary results were presented at the 2nd International Balkan School on Nuclear Physics, in Bodrum, Turkey in 2000. Results from the thesis helped to construct a comprehensive theory of reaction mechanisms in heavy-ion collisions in the energy range of 100 - 400 MeV.
+Description
+:    The project involved the analysis of data taken at iThemba LABS, near Cape Town, over a period of 2 years from 2000 – 2002. The work involved data-taking shifts at the laboratory and various analyses, including detector calibration and discussion of the results with collaborators at the University of Milan. Two presentations of the work were made to the South African Institute of Physics (SAIP, 2000 and 2001) and a prize for best presentation by a M.Sc. student was won in 2001. Preliminary results were presented at the 2nd International Balkan School on Nuclear Physics, in Bodrum, Turkey in 2000. Results from the thesis helped to construct a comprehensive theory of reaction mechanisms in heavy-ion collisions in the energy range of 100 - 400 MeV.
 
 --------------------------------------------------
 
@@ -301,7 +315,7 @@ Graduated
 :   December 1999
 
 Major
-:   Large-scale structure of the universe.
+:   **Large-scale structure of the universe.**
 
 Subjects  taken
 :   quantum-, classical- and statistical mechanics, classical electrodynamics, particle physics, computational physics,  general relativity, relativistic quantum mechanics.
@@ -323,19 +337,16 @@ Prizes/scholarships won
     Dean's Merit list, 1997
 
 
-Other Research Activities
---------------------------
+# Other Research Activities
+
+October 2017
+: Developing the Next Platform of e-Research Infrastructure in South Africa - Cloud Foundry. A two-day technical workshop to share tools, practice and experience of developing relevant platforms for research in a rapidly evolving technolgy environmnet. See http://foundry.africa-grid.org
 
 January 2015 - present
-: CODE-RADE (**Co**ntinuous **De**livery of **R**esearch **A**pplciations in a Distributed Environment)
+: CODE-RADE (**Co**ntinuous **De**livery of **R**esearch **A**pplciations in a Distributed Environment). An automated, continuous integration and delivery platform for aribtrary research applications, and aribitrary execution environments. See http://www.africa-grid.org/applications
 
 March 2014
-:   Consultant to OpenUCT for the "Discoverability of African Scholarship" workshop, funded by Carnegie foundation, held in Nairobi.
-
---------------------------------------------------
-
-June 2010
-:   Lecturer in the African School of Physics (ASP2010), held in Stellenbosch, South Africa. Organised by CERN and other leadering HEP laboratories, this two-week school attracted several of the brightest students from across the continent. Bruce was responsible for the grid computing module of the school.
+:   Consultant to OpenUCT for the "Discoverability of African Scholarship" workshop, funded by Carnegie foundation, held in Nairobi. See https://open.uct.ac.za/handle/11427/6997
 
 --------------------------------------------------
 
@@ -385,46 +396,18 @@ March 2003 – September 2003
 
 --------------------------------------------
 
-Software experience
--------------------
+#  Research Output
 
-Given the responsibilities of his career, Bruce has had to quickly learn and
-adopt new computer languages, technologies, methodologies and toolkits to address a wide range of scientific and technical problems. He enjoys learning new technology and considers it a stimulating challenge. He believes in sustainable development of quality software, and applies Agile methodology to his projects, through the use of distributed version control and continuous integration platforms such Jenkins, Travis and Github.
+A summary can be found at [scienceopen.com/user/brucellino](https://www.scienceopen.com/user/brucellino)
 
-------------------------------------------
-
-Scientific Applications
-:   HepMC, CLHEP, Pythia, GEANT3/4, ROOT, GADGET, HTK
-
-Languages and Tools
-:   C/C++, python, FORTRAN, JavaScript, YAML, R, git, svn.
-
-Operating Systems
-:   CentOS and Debian-based systems
-
-Grid, HPC
-:   Globus Toolkit, gLite, GridWay, Swift, SAGA, OpenMPI, TORQUE/MAUI, CREAM
-
-Cloud
-:   Docker, OpenNebula, kvm, OCCI
-
-Web
-:   HTML4, Markdown, JSR168/286 (Portlet Specification)
-
-Automation
-:   Ansible, Jenkins, Puppet, Nagios, Travis
-
--------------------------------------------
-
-Co-Authored Book Chapters
--------------------------
+## Co-Authored Book Chapters
 
   * Andronico, G., Balaž, A., Banda, T. M., Barbera, R., Becker, B., Chattopadhyay, S., Chen, G., Ciuffo, L. N., Dhekne, P. S., Gavillet, P., Jalife, S., Kondoro, J. W., Lin, S. C., Marechal, B. M., Masoni, A., Matyska, L., Merrouch, R., Mitsos, Y., Nan, K., Napis, S., Nassar, S., Paganoni, M., Prnjat, O., Qian, D., Qjan, S., Reale, M., Ruggieri, F., Şener, C., Singh, D., Torman, Y., Voss, A., West, D., & Wright, C. (2014). E-Infrastructures for International Cooperation. In Cyber Behavior: Concepts, Methodologies, Tools, and Applications (pp. 380-430). Hershey, PA: Information Science Reference. doi:10.4018/978-1-4666-5942-1.ch022
 
+## Peer-reviewed  Research Outputs
 
-Peer-reviewed  Research Outputs
--------------------------------
-
+  * Taylor, S.J.E. and Fabiyi, A. and Anagnostou, A. and Barbera, R. and Torrisi, M. and Ricceri, R. and Becker, B., "Demonstrating Open Science for Modeling and Simulation Research", Proceedings - IEEE International Symposium on Distributed Simulation and Real-Time Applications, DS-RT (2016) DOI:10.1109/DS-RT.2016.35
+  * Stankovski, V. and Taherizadeh, S. and Taylor, I. and Jones, A. and Mastroianni, C. and Becker, B. and Suhartanto, H.,  "Towards an Environment Supporting Resilience, High-Availability, Reproducibility and Reliability for Cloud Applications" (2016), Proceedings - 2015 IEEE/ACM 8th International Conference on Utility and Cloud Computing, DOI:10.1109/UCC.2015.61
   * Gorbunov, Rohr, Aamodt, Alt, Appelshauser, Arend, Bach, Becker, Bottger, Breitner, others (2011). ALICE HLT High Speed Tracking on GPU. IEEE Transactions on Nuclear Science
   * Andronico, Ardizzone, Barbera, Becker, Bruno, Calanducci, Carvalho, Ciuffo, Fargetta, Giorgio, Rocca, Masoni, Paganoni, Ruggieri, Scardaci (2011). e-Infrastructures for e-Science: A Global View. J Grid Computing
   * Richter, Aamodt, Alt, Appelshauser, Arend, Becker, Bottger, Breitner, Busching, Cicalo, others (2011). Event Reconstruction Performance of the ALICE High Level Trigger for ALICE. Nuclear Science, IEEE Transactions on
@@ -443,10 +426,13 @@ Peer-reviewed  Research Outputs
   * Centrality Dependence of Charged Anti-Particle to Particle Ratios Near Mid-Rapdity in d + Au Collsions at sqrt(s) = 200 GeV. By PHOBOS Collaboration (B.B. Back et al.). Nov. 2003. 4pp. Phys. Rev. C70 , 011901 (2004)
   * Emission of Li,9,7Be and B fragments in the interaction of 12C with 93Nb between 200 and 400 MeV. By B. Becker, F. Albertini, E. Gadioli, G.F. Steyn, M. Cavinato, S.H. Connell, A.A. Cowley, E. Fabrici, S.V. Förtsch, E. Gadioli      Erba, J.J. Lawrie and E. Sideras Haddad. Eur. Phys. J. A 18(4), pp 639 – 644 (2003)
 
+## Authored Project Deliverables
 
-Articles contributed to conferences:
-------------------------------------
+  * B. Becker, "e-Infrastructure Sentinel Report", Sci-GaIA Deliverable 1.3 DOI:10.15169/sci-gaia:1497428371.87
+  * B. Becker, "Outcomes of the Web-Based User Forum", Sci-GaIA Deliverable 2.3  DOI:10.15169/sci-gaia:1495697515.56
 
+## Articles contributed to conferences:
+  
   * Prnjat, O.; Becker, B. ; Barbera, R. ; Kanellopoulos, C. ; Koumantaros, K. ; Mayo-Garcia, R. ; Ruggieri, F., "Enabling intercontinental e-Infrastructures - a case for Africa", IST-Africa 2015 (2015), (Lilongwe, Malawi) DOI:10.1109/ISTAFRICA.2015.7190535
   * Prnjat, O. ; Rodriguez Pascual, M. ; Becker, B. ; Barbera, R., "Surveying clouds in a global environment", IST-Africa 2015 (2015), (Lilongwe, Malawi) DOI:10.1109/ISTAFRICA.2015.7190536
   * B. Becker, F. Riekerts, "Breaking Down Barriers to Developing Applications of e-Infrastructures - The SAGrid-2.0 case.", UbuntunetConnect 2014 (2014). (Lusaka, Zambia)
@@ -471,17 +457,23 @@ Articles contributed to conferences:
   * "Experiences with the ALICE Data Grid and South African Grid Prototype", Scientific Clustering Applications Workshop, Cape Town 2007.
   * "Physics Performance of the dHLT", to the international dHLT Review, Cape Town, November 2006
 
-Software Products
------------------
+## Selected Software Products
 
+  * Bruce Becker, & Sean Murray (2017, August 4). AAROC/cvmfs-client-2.2: CODE-RADE cvmfs client role v1.1.2 (Version v1.1.2). Zenodo. http://doi.org/10.5281/zenodo.839002
+  * Bruce Becker. (2017, July 11). AAROC/UMD-role: Ansible role for UMD - v0.0.1 (Version v0.0.1). Zenodo. http://doi.org/10.5281/zenodo.825841
+  * Bruce Becker. (2017, April 20). AAROC/AnsibleContainer: Ansible Ready Container for DevOps. Zenodo. http://doi.org/10.5281/zenodo.556399
+  * Bruce Becker, Chris Rohrer, & Marco Fargetta. (2017, January). AAROC/AnsibleBootCamp: Ansible BootCamp - Entebbe. Zenodo. http://doi.org/10.5281/zenodo.242394
+  * Bruce Becker, & Mario Torrisi. (2016, December 18). AAROC/e-Research-Hackfest-prep: e-Research Hackfest Preparation : Lagos. Zenodo. http://doi.org/10.5281/zenodo.208216
+  * Bruce Becker, & Mario Torrisi. (2016, December 18). AAROC/hackfest-warmups: e-Research Hackfest Warmups : Lagos. Zenodo. http://doi.org/10.5281/zenodo.208218
+  * Bruce Becker, Marco Fargetta, Chris Lee, Paschalis Korosoglou, Pavlos Daoglou, Bouchra Rahim (2016, August 3). DevOps: Final Shibboleth-v2 Identity Provider Release. Zenodo. http://doi.org/10.5281/zenodo.59296
   * Bruce Becker et al. (2015). CODE-RADE: Continuous Delivery of Research Applications in a Distributed Environment (Infrastruture Foundation Release). ZENODO pending. https://github.com/AAROC/CODE-RADE/releases/tag/v0.0.1
   * Bruce Becker et al. (2014). DevOps: Ansible LDAP/Shibboleth Role Release. ZENODO. 10.5281/zenodo.12359
   * Bruce Becker. (2014). SAGrid Supported Software Functional Tests. ZENODO. 10.5281/zenodo.10234
   * Bruce Becker et al. (2014). IDPPublic. ZENODO. 10.5281/zenodo.12177
   * Bruce Becker et al. (2014). AAROC DevOps Ansible. ZENODO. 10.5281/zenodo.10232
 
-ALICE Internal Notes
---------------------
+## ALICE Internal Notes
+
 
   * ALICE-INT-2008-013 :   Implementation of a hit reconstruction algorithm for the ALICE Dimuon High-Level Trigger (2008)
   * ALICE-INT-2007-022  : ALICE Dimuon High-Level Trigger: Project Review
