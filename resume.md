@@ -1,12 +1,19 @@
 Bruce Becker
 ============
 
--------------------                                -----------------------------
+-----------------------------------------------
 C.S.I.R. Meraka Institute                                   brucellino@gmail.com
 Building 43, C.S.I.R. Campus                                  bbecker@csir.co.za
 1 Meiring Naude Road                                           + 39 392 622 9279
-Pretoria 0001                                              Twitter: @brusisceddu
---------------------                               -----------------------------
+Pretoria 0001                                             
+-------------------------------------------------
+
+**Contact Details**
+Home page: [http://brucellino.github.io](brucellino.github.io)
+Twitter: [https://twitter.com/brusisceddu](@brusisceddu)
+ORCID: [https://orcid.org/0000-0002-6607-7145](0000-0002-6607-7145)
+LinkedIn: [https://linked.com/in/brucellino](linkedin.com/in/brucellino)
+StackExchange: [https://stackexchange.com/users/3206984/bruce-becker](stackexchange.com/users/3206984/bruce-becker)
 
 **Current Position**
 Senior Researcher, SANREN Competency Area, CSIR Meraka Institute
@@ -33,18 +40,19 @@ Bruce Becker is a scientist who has made a career out of building digital infras
 He completed his studies in 2007 with a Ph.D in physics from the University of Cape Town, working on the High-Level Trigger of the ALICE  Dimuon Spectrometer at the CERN LHC. He completed two postdoctoral fellowships at the CEA (Saclay, France) and INFN (Cagliari, Italy), extending his work on ALICE and moving into the area of HPC and grid computing. With a strong analytical and technical background, his work consisted mainly of the development and optimisation of algorithms and integration of online and offline workflows. Gaining experience through working in teams and large collaborations, he developed the management, communication, planning and organisational skills to undertake research and development projects at national scale.\
 In 2008 he kickstarted the South African National Grid (SAGrid) – a federation of compute resources providers from research groups, universities and national research laboratories in South Africa. In collaboration with several European projects, he coordinated the deployment of HPC and data resources, including the training of users and technical staff, as well as the identification and porting of several scientific applications. The culmination of this phase resulted in the harmonisation of the initiative with other South African e-Infrastructure initiatives, in particular the National Research Network (SANREN), and the formation of the Africa-Arabia Regional Operations Centre (AAROC).\
 A strong believer in the Open Access and Open Science movement, his current interests fall into e-Infrastructure and scientific research domains. His current responsibilities involve ensuring the availability and development of a pan-African platform for scientific collaboration, as well as maintaining interoperability with other regional infrastructures such as EGI. He remains active in education and training, developing tools and techniques for 21st century research and collaboration. He has worked on improving and demonstrating the potential of cloud platforms, builidng platforms for continuous delivery of research applications, executable infrastructure and curricula to develop the skills of the Research Infrastructure Engineer profile. \
-Personal interests include music, the impact of climate change, travel, history, the solar system, outdoor activities and languages. He has 
+Personal interests include music, the impact of climate change, travel, history, the solar system, outdoor activities and languages.
 
-Research Impacts Summary
+Summary of Research and Impact
 ----------------------------
 
 Research outputs including peer reviewed articles, presentations, conference proceedings, source code, _etc_ are summarised at:
 
 ORCID
-:    [orcid.org/0000-0002-6607-7145](http://orcid.org/0000-0002-6607-7145)
+:    [orcid.org/0000-0002-6607-7145](orcid.org/0000-0002-6607-7145)
 
 Github
-:   [https://github.com/brucellino](https://github.com/brucellino)
+:   [https://github.com/brucellino](github.com/brucellino)
+:   [https://github.com/AAROC/](github.com/AAROC)
 
 Google Scholar
 :   [http://scholar.google.it/citations?user=IjK816QAAAAJ&hl=en](http://scholar.google.it/citations?user=IjK816QAAAAJ&hl=en)
@@ -54,7 +62,7 @@ Current Responsibilities
 ------------------------
 
  * Coordinator of the Africa-Arabia Regional Operations Centre
- * Responsible for South African participation in the Sci-GaIA EU Horizon-2020 funded project
+ * Architecture, design and delivery of data infrastructure for Data-Intensive Research Initiative for South Africa
  * Development of data infrastructure and services for African research institutes
  * Development of advanced services for application developers and site operations team – executable infrastructure and continuous integration platforms.
 
@@ -64,8 +72,8 @@ Current Research Interests
   * Making the web work for science - tools and services for todays's scientists (web portals, science gateways, collaboration platforms, dissemination, etc.)
   * Application development and integration - exploiting distributed computing systems
   * Large-scale scientific workflows - application to Climate, Bioinformatics, Astronomy, Agriculture and other scientific domains.
-  * Monte-Carlo simulations of relativistic heavy-ion collisions
-  * Image processing, including machine-learning aspects
+
+  * Image and natural language processing, including machine-learning aspects
   * Experimental relativistic heavy-ion physics, data analysis
   * Grid, distributed and cluster computing, including HPC
   * Scholarly communication in the 21st century
@@ -74,6 +82,8 @@ Current Research Interests
 Previous responsibilities in CSIR Meraka
 -----------------------------------
 
+2017 - present
+:   Design and implementation of DIRISA 
 2015
 :   Development of initial design and service offering  of Data Intensive Research Infrastructure for South Africa (DIRISA)
 
@@ -88,7 +98,7 @@ Previous responsibilities in CSIR Meraka
 2010 - 2012
 :   Development of Advanced Services for the Network, including data transfer gateways and investigation of videoconferencing systems.
 
-Participation in EU FP7 and other international projects
+Participation in EU FP7, H202 and other international projects
 ---------------------------------
 
 Title
@@ -105,7 +115,6 @@ Responsibilities
     Support the creation of an African Policy Management Authority and the establishment of Identity Federations to be connected to eduGAIN.
     Creation of educational and training content for the Sci-GaIA online learning platform (OpenEdX-based).
     Ensure the interoperability and interoperation between the African, the EU and the global e-Infrastructures
-
 
 Title
 :   **CHAIN-REDS** - Coordination and Harmonisation of Advanced e-Infrastructures for Research and Educational Data Sharing
