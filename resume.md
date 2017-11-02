@@ -25,24 +25,31 @@ Pretoria 0001                                         ![twitter](407-twitter.svg
 
 # Profile
 
-Physicist who has made a career out of building digital infrastructures for research communities. As a researcher, he has keen insight into both the needs and expectations of the researcher communities, and supports the Open Science movement. As a technologist, has embraced the DevOps movement and the "everything as code" pattern. As an African, he has worked in challenging and complex environments, equally comfortable in the South and North. Able to meet researchers, research administrators, funders and infrastructure providers at the approprite level, in order to build healthy research ecosystems. Passion for teaching, learning, building services and collaborating in any field of research.
+A Physicist who has made a career out of building digital infrastructures for research communities. As a researcher, has keen insight into both the needs and expectations of the researcher communities, and supports the Open Science movement. As a technologist, has embraced the DevOps movement and the "everything as code" pattern. As an African, has worked in challenging and complex environments, equally comfortable in the South or North. Able to meet researchers, research administrators, funders and infrastructure providers at the approprite level, in order to build healthy research ecosystems. Has a passion for teaching, learning, building services and collaborating in any field of research.
 
 ## Skills
 
-Strong analytical and technical background, paired with strong written and oral communication skills. Good experience managing and collaborating with communities of practice. Experience in medim-size teams and large collaborations. Management, communication, planning and organisational skills needed to undertake research and development projects at national and regional scale. Software engineering, data analytics, infrastructure engineering, open science, and platform development. Has delivered scientific application delivery platforms, HPCs, grids, clouds, digital repositories, science gateways, discussion fora, chat bots, continuous integration and delivery platforms.
+Strong analytical and technical background, paired with strong written and oral communication skills. Good experience managing and collaborating with communities of practice. Experience in medim-size teams and large collaborations. Management, communication, planning and organisational skills needed to undertake research and development projects at national and regional scale. Software engineering, data analytics, infrastructure engineering, open science, and platform development. Has built scientific application delivery platforms, HPCs, grids, clouds, digital repositories, science gateways, discussion fora, chat bots, continuous integration and delivery platforms.
 
 ## Career Highlights
 
 Ph.D in physics (2007, University of Cape Town) on the High-Level Trigger of the ALICE Dimuon Spectrometer at the CERN LHC. 
 Completed two postdoctoral fellowships at the CEA (Saclay, France) and INFN (Cagliari, Italy), extending his work on ALICE, moving into the area of HPC and grid computing.
-Started South African National Grid (SAGrid, 2008) – a federation of compute resources providers from research groups, universities and national research laboratories in South Africa. In collaboration with several European projects, coordinated the deployment of HPC and data resources, training users and technical staff, as well as identification and porting of scientific applications. The culmination of this phase resulted in the harmonisation of the initiative with other South African e-Infrastructure initiatives, in particular the National Research Network (SANREN), and the formation of the Africa-Arabia Regional Operations Centre (AAROC, 2013). 
-Current interests fall into e-Infrastructure and scientific research domains. urrent responsibilities involve ensuring the availability and development of a pan-African platform for scientific collaboration, as well as maintaining interoperability with other regional infrastructures such as EGI. He remains active in education and training, developing tools and techniques for 21st century research and collaboration. He has worked on improving and demonstrating the potential of cloud platforms, builidng platforms for continuous delivery of research applications, executable infrastructure and curricula to develop the skills of the Research Infrastructure Engineer profile. 
+Started South African National Grid (SAGrid, 2008) – a federation of compute resources providers from research groups, universities and national research laboratories in South Africa. 
+In collaboration with several European projects, coordinated the deployment of HPC and data resources, training users and technical staff, as well as identifying and porting scientific applications. 
+The culmination of this phase resulted in the harmonisation of the initiative with other South African e-Infrastructure initiatives, in particular the National Research Network (SANREN), and the formation of the Africa-Arabia Regional Operations Centre (AAROC, 2013). 
+Current interests fall into e-Infrastructure and scientific research domains. 
+Current responsibilities involve ensuring the availability and development of a pan-African platform for scientific collaboration, as well as maintaining interoperability with other regional infrastructures such as EGI. 
+He remains active in education and training, developing tools and techniques for 21st century research and collaboration.
+Conducted work on improving and demonstrating the potential of cloud platforms, builidng platforms for continuous delivery of research applications, executable infrastructure and curricula to develop the skills of the Research Infrastructure Engineer profile. 
 Personal interests include music, the impact of climate change, travel, history, the solar system, outdoor activities and languages.
 
 ## Software and Technical
 
 Given the responsibilities of his career, Bruce has had to quickly learn and
-adopt new computer languages, technologies, methodologies and toolkits to address a wide range of scientific and technical problems. He enjoys learning new technology and considers it a stimulating challenge. He believes in sustainable development of quality software, and applies Agile methodology to his projects, through the use of distributed version control and continuous integration platforms such Jenkins, Travis and Github.
+adopt new computer languages, technologies, methodologies and toolkits to address a wide range of scientific and technical problems. 
+Enjoys learning new technology and considers it a stimulating challenge. 
+Believes in sustainable development of quality software, and applies Agile methodology to his projects, through the use of distributed version control and continuous integration platforms such Jenkins, Travis and GitHub.
 
 ------------------------------------------
 
