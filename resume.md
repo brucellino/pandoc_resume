@@ -97,16 +97,23 @@ Senior Researcher, SANREN Competency Area, CSIR Meraka Institute
 2017 - present
 :   Design and implementation of DIRISA cloud platform.
 
+--------------------------------------------
+
 2015
 :   Development of initial design and service offering  of Data Intensive Research Infrastructure for South Africa (DIRISA)
 
+--------------------------------------------
+
 2014
 :   Research support to Human Heredity and Health in Africa Project (H3Africa) - consultancy, service development and high-performance data transfer support
+
+--------------------------------------------
 
 2013
 :   Contribution of the SAGrid component of the National Initiative for Cyberinfrastructure Report (NICI) in South Africa, a document prepared for national government regarding harmonisation of e-Infrastructure
 :   Collaboration with SKA Africa project and other astronomy user groups - providing technical support, consultancy and training on distributed computing services of the national grid and NREN.
 
+--------------------------------------------
 
 2010 - 2012
 :   Development of Advanced Services for the Network, including data transfer gateways and investigation of videoconferencing systems.
