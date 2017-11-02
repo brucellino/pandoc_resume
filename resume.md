@@ -356,8 +356,12 @@ Prizes/scholarships won
 October 2017
 : Developing the Next Platform of e-Research Infrastructure in South Africa - Cloud Foundry. A two-day technical workshop to share tools, practice and experience of developing relevant platforms for research in a rapidly evolving technolgy environmnet. See http://foundry.africa-grid.org
 
+--------------------------------------------
+
 January 2015 - present
 : CODE-RADE (**Co**ntinuous **De**livery of **R**esearch **A**pplciations in a Distributed Environment). An automated, continuous integration and delivery platform for aribtrary research applications, and aribitrary execution environments. See http://www.africa-grid.org/applications
+
+--------------------------------------------
 
 March 2014
 :   Consultant to OpenUCT for the "Discoverability of African Scholarship" workshop, funded by Carnegie foundation, held in Nairobi. See https://open.uct.ac.za/handle/11427/6997
