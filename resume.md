@@ -22,20 +22,23 @@ Nationality
 :   South African
 Residence
 :   South Africa
+:   Italian
 Languages
 :   English (home language), Italian (second home language), French (read, write speak) Afrikaans (read, write,  speak)
 
 Profile
 -------
 
-Bruce Becker completed his studies in 2007 with a Ph.D in physics from the University of Cape Town, working on the High-Level Trigger of the ALICE  Dimuon Spectrometer at the CERN LHC. He completed two postdoctoral fellowships at the CEA (Saclay, France) and INFN (Cagliari, Italy), extending his work on ALICE and moving into the area of HPC and grid computing. With a strong analytical and technical background, his work consisted mainly of the development and optimisation of algorithms and integration of online and offline workflows. Gaining experience through working in teams and large collaborations, he developed the management, communication, planning and organisational skills to undertake research and development projects at national scale.\
-In 2008 he kickstarted the South African National Grid (SAGrid) – a federation of compute resources providers from research groups, universities and national research laboratories in South Africa. In collaboration with several European projects, he coordinated the deployment of HPC and data resources, including the training of users and technical staff, as well as the identification and porting of several scientific applications. The culmination of this phase resulted in the harmonisation of the initiative with other South African e-Infrastructure initiatives, such as the National Research Network (SANREN) and the formation of the Africa-Arabia Regional Operations Centre (AAROC).\
-A strong believer in the Open Access and Open Science movement, his current research interests are fall into e-Infrastructure and scientific research domains. His current responsibilities involve ensuring the availability and development of a pan-African platform for scientific collaboration, as well as maintaining interoperability with other regional infrastructures such as EGI. He remains active in education and training, developing tools and techniques for 21st century research and collaboration. Personal interests include music, neuroscience, impact of climate change, travel, history, the solar system, outdoor activities and languages.
+Bruce Becker is a scientist who has made a career out of building digital infrastructures for research communities. As a researcher, he has keen insight into both the needs and expectations of the researcher communities. As an African, he has worked in the challenging and complex environment of the continent, and is able to meet both research, research administrators, funders and infrastructure providers at the approprite level.\
+He completed his studies in 2007 with a Ph.D in physics from the University of Cape Town, working on the High-Level Trigger of the ALICE  Dimuon Spectrometer at the CERN LHC. He completed two postdoctoral fellowships at the CEA (Saclay, France) and INFN (Cagliari, Italy), extending his work on ALICE and moving into the area of HPC and grid computing. With a strong analytical and technical background, his work consisted mainly of the development and optimisation of algorithms and integration of online and offline workflows. Gaining experience through working in teams and large collaborations, he developed the management, communication, planning and organisational skills to undertake research and development projects at national scale.\
+In 2008 he kickstarted the South African National Grid (SAGrid) – a federation of compute resources providers from research groups, universities and national research laboratories in South Africa. In collaboration with several European projects, he coordinated the deployment of HPC and data resources, including the training of users and technical staff, as well as the identification and porting of several scientific applications. The culmination of this phase resulted in the harmonisation of the initiative with other South African e-Infrastructure initiatives, in particular the National Research Network (SANREN), and the formation of the Africa-Arabia Regional Operations Centre (AAROC).\
+A strong believer in the Open Access and Open Science movement, his current interests fall into e-Infrastructure and scientific research domains. His current responsibilities involve ensuring the availability and development of a pan-African platform for scientific collaboration, as well as maintaining interoperability with other regional infrastructures such as EGI. He remains active in education and training, developing tools and techniques for 21st century research and collaboration. He has worked on improving and demonstrating the potential of cloud platforms, builidng platforms for continuous delivery of research applications, executable infrastructure and curricula to develop the skills of the Research Infrastructure Engineer profile. \
+Personal interests include music, the impact of climate change, travel, history, the solar system, outdoor activities and languages. He has 
 
-Research Impacts and Summary
+Research Impacts Summary
 ----------------------------
 
-Research outputs including peer reviewed articles, presentations, conference proceedings, source code, etc are summarised at:
+Research outputs including peer reviewed articles, presentations, conference proceedings, source code, _etc_ are summarised at:
 
 ORCID
 :    [orcid.org/0000-0002-6607-7145](http://orcid.org/0000-0002-6607-7145)
@@ -50,12 +53,10 @@ Google Scholar
 Current Responsibilities
 ------------------------
 
- * Technical Coordinator of the Africa-Arabia Regional Operations Centre
- * Coordination of WLCG activities in South Africa (ATLAS and ALICE offline computing at South African sites), including resolution of data transport, planning and operational issues.
+ * Coordinator of the Africa-Arabia Regional Operations Centre
  * Responsible for South African participation in the Sci-GaIA EU Horizon-2020 funded project
  * Development of data infrastructure and services for African research institutes
- * Development of SAGrid Strategic Plan, including sustainability, research and development, human capital and international cooperation.
- * Development of advanced services for SAGrid application developers and site operations team – executable infrastructure and continuous integration platforms.
+ * Development of advanced services for application developers and site operations team – executable infrastructure and continuous integration platforms.
 
 Current Research Interests
 --------------------------
@@ -350,7 +351,7 @@ September 2005 – October 2005
 ------------------------------------
 
 November 2004
-:   Organised and executed first Scientific Clustering Applications Workshop in collaboration with IBM in Cape Town, South Africa. This was a meeting of a representative group of about 50 South African scientists using or planning to use high-performance computing (HPC) in their field of science. Invited speakers fro m the several universities in South Africa, representatives from HP, IBM and local HPC vendors were present.
+:   Organised and executed first Scientific Clustering Applications Workshop in collaboration with IBM in Cape Town, South Africa. This was a meeting of a representative group of about 50 South African scientists using or planning to use high-performance computing (HPC) in their field of science. Invited speakers fro m the several universities in South Africa, representatives from HP, IBM and local HPC vendors were present.
 
 -------------------------------------
 
